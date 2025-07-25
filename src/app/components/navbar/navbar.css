@@ -1,0 +1,20 @@
+.navbar {
+    background-color: #2C3E50;
+}
+
+#navbarNav {
+    margin-left: 50%;
+}
+
+nav a {
+    color: #fff;
+    font-weight: bold;
+}
+
+li a {
+    font-size: 1.2rem;
+}
+
+.green-color {
+    background-color: #1ABC9C;
+}

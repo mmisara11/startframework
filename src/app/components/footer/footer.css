@@ -1,0 +1,18 @@
+i {
+    border: solid 1px #ccc;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+footer .row {
+    background-color: #2C3E50;
+}
+
+.copy-right {
+    background-color: #19242E;
+}
