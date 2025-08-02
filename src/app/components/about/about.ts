@@ -8,5 +8,6 @@ import { Star } from "../star/star";
   styleUrl: './about.css'
 })
 export class About {
-
+  lineBgColor:string = "white"
+  iconColor:string = "white"
 }
